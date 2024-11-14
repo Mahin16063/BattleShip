@@ -1,14 +1,12 @@
-""" Complete your "Project Details".  If there is an arrow to the right of the line number then click the arrow
-to expand the comment.
-********************************************************
-COMP 1005/1405 Section [D] - Assignment [3]
-
+""" 
 Project Details:
     Name: Mahin Hossain Akond
     Student #: 101256049
     Date Created: 30/10/24
 
-External Libraries Used (if appliable)
+
+External Libraries Used:
+1. Random
 ********************************************************
 """
 """ Pseudocode 
@@ -27,17 +25,15 @@ External Libraries Used (if appliable)
         Display the user final score of the game
 """
 
-""" Import the libraries if appliable
+""" Importing the libraries
 
 """
 import random
 
-""" Define global variables if appliable
+""" Defining global variables
 
 """
 totalScore = 0
-# Suggest to start by understanding the code in the main function.
-# Then proceed with the coding.
 
 
 def addShip(board, numShips):
